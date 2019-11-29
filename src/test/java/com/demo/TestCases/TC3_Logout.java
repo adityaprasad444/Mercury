@@ -1,8 +1,7 @@
 package com.demo.TestCases;
 
-import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
-
+import org.openqa.selenium.interactions.Actions;
 import com.demo.pages.LoginHome;
 
 public class TC3_Logout extends BaseClass {

@@ -1,7 +1,6 @@
 package com.demo.TestCases;
 
 import org.testng.annotations.Test;
-
 import com.demo.pages.Homepage;
 import com.demo.pages.Regestration;
 
